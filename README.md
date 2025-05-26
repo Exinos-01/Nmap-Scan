@@ -1,7 +1,7 @@
 # Nmap-Scan 
-# 🔍 Cybersecurity Internship – Task 1
+# Cybersecurity Internship – Task 1
 
-## 🛠 Task: Scan Your Local Network for Open Ports
+## Task: Scan Your Local Network for Open Ports
 
 ###  Objective:
 Use **Nmap** to perform a **TCP SYN scan** on your local network, identify open ports, and understand basic network exposure.
