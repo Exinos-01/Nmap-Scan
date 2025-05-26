@@ -10,7 +10,7 @@ Use **Nmap** to perform a **TCP SYN scan** on your local network, identify open 
 
 ## My Local IP Range:
 I found my local IP address using `ipconfig` and determined my network range as:
-192.168.1.0/24 yaml
+192.168.1.0/24 
 
 ##Nmap Command Used:
 
@@ -18,8 +18,8 @@ nmap -sS 192.168.1.0/24
 This performs a TCP SYN scan across all devices in my local subnet.
 
 Scan Results Summary:
-Example Device:
-IP: 192.168.1.8
+Device IP: 192.168.1.8
+Note: The scanned host (192.168.1.8) had all 1000 TCP ports closed. The open ports listed below are included purely for educational and reference purposes to demonstrate common port vulnerabilities.
 
 Open Ports:
 Port 21: FTP
