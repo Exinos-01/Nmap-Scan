@@ -1,5 +1,5 @@
 # Nmap-Scan 
-# Cybersecurity Internship – Task 1
+# Task 1
 
 ## Task: Scan Your Local Network for Open Ports
 
